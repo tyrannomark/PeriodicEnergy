@@ -1,0 +1,13 @@
+Package: superiod
+Type: Package
+Title: Package for Calculating Periodic Energy
+Version: 0.1.0
+Author: T. Mark Ellison
+Maintainer: T. Mark Ellison <tellison@uni-koeln.de>
+Description: This package provides functions for autocorrelation
+    and periodic energy based on those calculations. It uses the
+    package seewave to get the amplitude information from
+    .wav files. 
+License: GPL-4
+Encoding: UTF-8
+LazyData: true
